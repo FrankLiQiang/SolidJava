@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="rotateNum">
+        <item name="rotate0">0</item>
+        <item name="rotate1">1</item>
+        <item name="rotate2">2</item>
+        <item name="rotate3">3</item>
+        <item name="rotate4">4</item>
+        <item name="rotate5">5</item>
+        <item name="rotate6">6</item>
+        <item name="rotate7">7</item>
+        <item name="rotate8">8</item>
+    </string-array>>
+</resources>

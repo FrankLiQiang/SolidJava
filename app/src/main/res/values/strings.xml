@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">立体绘图</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="s4">正四面体</string>
+    <string name="s6">正六面体</string>
+    <string name="s60">正六面体(消隐)</string>
+    <string name="s8">正八面体</string>
+    <string name="s12">正十二面体</string>
+    <string name="s120">正十二面体(消隐)</string>
+    <string name="s20">正二十面体</string>
+    <string name="earth">球体</string>
+    <string name="ball">图片球面</string>
+    <string name="pCube">图片立方体</string>
+    <string name="ColorCube">彩色立方体</string>
+    <string name="pCube6">图片立方体(六图)</string>
+    <string name="ring">圆环</string>
+    <string name="mobius">莫比乌斯环</string>
+    <string name="backup">备用</string>
+    <string name="colorEarth">地球</string>
+    <string name="pRing">图片圆环</string>
+    <string name="rotateNum">旋转半周数</string>
+</resources>

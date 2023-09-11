@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    tools:context="com.frank.solid.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:background="#000000"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_weight="1"
+            android:background="#000000"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/s4"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:text="@string/s4">
+            </Button>
+
+            <Button
+                android:id="@+id/s6"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:text="@string/s6">
+            </Button>
+
+            <Button
+                android:id="@+id/s8"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:text="@string/s8">
+            </Button>
+
+            <Button
+                android:id="@+id/s12"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:text="@string/s12">
+            </Button>
+
+            <Button
+                android:id="@+id/s20"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:text="@string/s20">
+            </Button>
+
+            <Button
+                android:id="@+id/pCube"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:text="@string/pCube">
+            </Button>
+            <Button
+                android:id="@+id/ring0"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:text="@string/ring">
+            </Button>
+            <Button
+                android:id="@+id/mobiusRing"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:text="@string/mobius">
+            </Button>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_weight="1"
+            android:background="#000000"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/earth"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:text="@string/earth">
+            </Button>
+
+            <Button
+                android:id="@+id/s60"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:text="@string/s60">
+            </Button>
+
+            <Button
+                android:id="@+id/ball"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:text="@string/ball">
+            </Button>
+
+            <Button
+                android:id="@+id/s120"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:text="@string/s120">
+            </Button>
+
+            <Button
+                android:id="@+id/ColorCube"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:text="@string/ColorCube">
+            </Button>
+
+            <Button
+                android:id="@+id/pCube6"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:text="@string/pCube6">
+            </Button>
+            <Button
+                android:id="@+id/pRing"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:text="@string/pRing">
+            </Button>
+            <Button
+                android:id="@+id/forBackup"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:text="@string/colorEarth">
+            </Button>
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>
